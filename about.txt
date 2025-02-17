@@ -1,0 +1,18 @@
+What Git and GitHub are used for in software development.
+
+Git
+Git is a distributed version control system that helps developers keep track of changes in their code. Here are a few key benefits:
+
+Version Control: Git keeps a history of every change made to the codebase, making it easy to revert to previous versions if needed.
+Branching: Developers can create branches to experiment with new features without affecting the main codebase.
+Collaboration: Multiple developers can work on the same project simultaneously without overwriting each other's changes.
+
+GitHub
+GitHub is a web-based platform built around Git, offering additional features for collaboration and project management:
+
+Repositories: GitHub hosts Git repositories, making it easy to share and collaborate on code.
+Pull Requests: Developers can propose changes to a project and get feedback before merging those changes.
+Issues & Projects: GitHub offers tools to track bugs, feature requests, and project progress.
+Actions: Automate workflows, like running tests or deploying code, whenever changes are pushed to the repository.
+
+In essence, Git is the tool that handles version control, and GitHub is a platform that enhances Git's capabilities with additional features for collaboration and project management.
